@@ -73,3 +73,7 @@ end
 
 # Gem for web Scrapping
 gem 'nokogiri', '~> 1.16', '>= 1.16.4'
+
+gem 'csv'
+
+gem 'open-uri', '~> 0.4.1'
